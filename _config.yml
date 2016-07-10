@@ -13,10 +13,10 @@ url: "http://www.postgrescompare.com/blog"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Work in progress
+title: The Postgres Compare blog
 
 # Short description of your site
-description: The Postgres Compare blog
+# description: The Postgres Compare blog
 
 # --- Navigation bar options --- #
 
@@ -54,7 +54,7 @@ url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-j
 disqus: "workinpostgres"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-43432786-2"
+google_analytics: "UA-43432786-3"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
